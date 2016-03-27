@@ -4,6 +4,7 @@
 	padding: 50px;
 	font-family: Calibri, serif;
 	font-size: 16px;
+	margin: 0px 0px 0px 0px;
 }
 /*Formatting for links*/
 a:link, 
@@ -25,9 +26,9 @@ a:hover {
 }
 /*Formatting for flag*/
 #flag {
-	height: 250px;
-	margin: 50px 10px -20px -80px;
-	width: 400px;
+	height: 230px;
+	margin: 70px 0px -20px -90px;
+	width: 365px;
 }
 
 #about {
