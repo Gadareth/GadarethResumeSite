@@ -44,11 +44,9 @@ a:hover {
 	height: 450px;
 	background-color: #345191;
 	color: #FFFFFF;
-	margin: 0px 0px 0px 0px;
 }
 
 #experience {
-	margin: 0px 0px 0px 0px; 
 	height: 1000px;
 	color: #1E2B47;
 	background-color: #D9AF3D;
@@ -58,7 +56,6 @@ a:hover {
 	height: 400px;
 	background-color: #345191;
 	color: #FFFFFF;
-	margin: 0px 0px 0px 0px; 
 }
 
 #awards {
